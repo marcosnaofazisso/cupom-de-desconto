@@ -1,8 +1,8 @@
 desconto = 0
 
-print("----------------------------")
+print("---------------------------")
 print("FINALIZAÇÃO DA CONTA")
-print("----------------------------")
+print("---------------------------")
 
 numeroPratos = int(input("Digite o número de pratos principais comprados: "))
 while numeroPratos <= 0:
