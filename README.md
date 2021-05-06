@@ -14,5 +14,7 @@ E no final, a nota sai com o número total de pessoas que frequentou a mesa pois
 A tomada de decisão foi de ser o mais simples e rápido possível, com validação de cada etapa do sistema. 
 
 Programa em funcionamento: 
+
+
 ![cupom-de-desconto](https://user-images.githubusercontent.com/79977399/117369452-4ffbd480-ae9b-11eb-8b5f-097c24af6667.gif)
 
