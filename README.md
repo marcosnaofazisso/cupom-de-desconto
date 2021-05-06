@@ -12,4 +12,4 @@ No caso, os descontos são aplicados na conta do cliente de acordo com o cumprim
 
 E no final, a nota sai com o número total de pessoas que frequentou a mesa pois assim possibilita os clientes "racharem" a conta, caso queiram. 
 
-<img src="/cupom-de-desconto.jpg">
+<img src="./cupom-de-desconto.gif">
