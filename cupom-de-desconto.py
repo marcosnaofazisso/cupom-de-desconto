@@ -53,10 +53,10 @@ while qtd_pessoas <= 0:
 
 rachar = total_com_desconto/qtd_pessoas
 
-print("-------------------------------------")
+print("--------------------------------------")
 print("Valor total da nota:", total_sem_desconto)
 print("Valor total da nota com desconto:", total_com_desconto)
 print("")
 print("Número de pessoas:", qtd_pessoas)
 print("Valor por pessoa:", rachar)
-print("-------------------------------------")
+print("--------------------------------------")
